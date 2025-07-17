@@ -1,2 +1,2 @@
 # laundryrepository
-A project for view  laundry service
+A project for view  laundry service collaborate
